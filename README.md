@@ -38,7 +38,3 @@ O objetivo foi analisar o desempenho de **4 lojas do Senhor João** para determi
 
 
 Feito com ❤️ por Evely Paranhos | [LinkedIn](www.linkedin.com/in/evely-paranhos-souza) 
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Oracle_NEXT-E32221?style=for-the-badge" alt="Oracle ONE">
-</div>  
